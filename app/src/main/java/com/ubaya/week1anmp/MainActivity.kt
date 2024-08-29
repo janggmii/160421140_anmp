@@ -22,4 +22,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("destroy", "app is closing")
         super.onDestroy()
     }
+
+    // TODO: jangmi aselole 
 }
